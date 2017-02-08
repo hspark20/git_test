@@ -3,6 +3,7 @@
         <meta charset="UTF-8" />
         <title>GIT Dummy Class </title>
         <title>headline class </title>
+        <title>git class </title>
     </head> 
     <body>
         <header>
