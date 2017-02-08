@@ -2,6 +2,7 @@
     <head>
         <meta charset="UTF-8" />
         <title>GIT Dummy Class </title>
+        <title>headline class </title>
     </head> 
     <body>
         <header>
