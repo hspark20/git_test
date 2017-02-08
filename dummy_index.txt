@@ -2,6 +2,7 @@
     <head>
         <meta charset="UTF-8" />
         <title>GIT Dummy Class </title>
+        <title>headline class </title>
     </head> 
     <body>
         <header>
@@ -9,6 +10,9 @@
             <h1>class</h1>
             <h1>UI</h1>
             <h1>SI</h1>
+            <h1>ML</h1>
+            <h1>KL</h1>
+            <h1>NL</h1>
         </header>
     </body>
 </html>
